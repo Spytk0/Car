@@ -14,10 +14,11 @@ public class CarApperance : MonoBehaviourPunCallbacks
     public int playerNumber;
     public Camera backCamera;
 
-
     int carRego;
     bool regoSet = false;
-    public CheckPointController checkPoint;
+
+    public CheckPointController checkpoint;
+
 
     void Start()
     {
@@ -68,7 +69,6 @@ public class CarApperance : MonoBehaviourPunCallbacks
             regoSet = true;
             return;
         }
-
         Leaderboard.SetPosition(carRego, checkPoint.lap, checkPoint.checkPoint);
     }
 

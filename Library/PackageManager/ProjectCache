@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638627985770000000
-    m_Hash: 2355684600
+      ticks: 638682393019926782
+    m_Hash: 344991124
   m_LockFileStatus:
     m_FilePath: C:/Users/n8an/Downloads/MultiplayerCar-main/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638627985770000000
-    m_Hash: 851465382
+      ticks: 638682393019936754
+    m_Hash: 2636727927
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -114,6 +114,7 @@ m_ResolvedPackages:
     - 2.10.0
     - 2.10.1
     - 2.10.2
+    - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -131,6 +132,7 @@ m_ResolvedPackages:
     - 2.10.0
     - 2.10.1
     - 2.10.2
+    - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
